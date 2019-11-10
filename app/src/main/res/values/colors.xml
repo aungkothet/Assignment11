@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#469139</color>
+    <color name="colorPrimaryDark">#469139</color>
+    <color name="colorAccent">#a1c5a3</color>
+    <color name="colorFavTabBackground">#1f4e45</color>
+    <color name="colorPlantName">#404040</color>
+    <color name="bg_white">#776B6B</color>
+</resources>
